@@ -1,4 +1,4 @@
-package App08;
+package app08;
 
 public interface Publicacao {
 	public abstract void abrir();
